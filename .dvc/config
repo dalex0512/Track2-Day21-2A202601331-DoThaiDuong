@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://mlops-lab-271954948185/dvc
+    region = us-east-1
+    profile = mlops-lab-sa
