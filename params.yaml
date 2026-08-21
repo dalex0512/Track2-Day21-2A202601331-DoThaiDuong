@@ -1,4 +1,5 @@
 # Sieu tham so cho mo hinh RandomForestClassifier
+# Best cua 10 lan chay MLflow tren train_phase1.csv (2998 mau): acc 0.686
 n_estimators: 200
 max_depth: 16
 min_samples_split: 3
